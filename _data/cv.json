@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Sy Zheng",
+    "email": "zhengshiyan113@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://worfsmile/worfsmile.github.io",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "xi an",
+      "countryCode": "ch",
       "region": ""
     },
     "profiles": [
@@ -25,28 +25,28 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "worfsmile",
+        "url": "https://github.com/worfsmile"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Xi'an Jiaotong University",
+      "area": "B.S. in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "endDate": "2026",
+      "gpa": "93/100, 4.04/4.3",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Xi'an Jiaotong University",
+      "area": "Ph.D. in Statistics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "20xx",
       "gpa": null,
       "courses": []
     },
@@ -61,8 +61,8 @@
     }
   ],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": ["en", "zh-CN"],
+  "interests": ["calligraphy", "table tennis", "playing games"],
   "references": [],
   "publications": [
     {
