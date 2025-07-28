@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Xi'an Jiaotong University, major in Statistics
-* B.S. in Xi'an Jiaotong University, major in Computer Science
+* Ph.D in Xi'an Jiaotong University, major in Statistics [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)
+* Visiting Student, National University of Singapore, Singapore[<img src="https://raw.githubusercontent.com/worfsmile/worfsmile/master/img/nus.png"  align = "right"  width="2.2%"/>](https://www.nus.edu.sg/)      
+* B.S. in Xi'an Jiaotong University, major in Computer Science [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)
 
 Work experience
 ======
