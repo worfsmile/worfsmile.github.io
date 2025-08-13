@@ -19,6 +19,7 @@ Work experience
 ======
 * Social Network Analysis
   * Xi'an Jiaotong University, Xi'an, China
+  * Social Network and Graph Neural Network Researches
   * Duties includes: Shortcut Learning Analysis on Social Bot Detection
   
 Skills
