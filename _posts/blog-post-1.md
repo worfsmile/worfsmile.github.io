@@ -1,7 +1,7 @@
 ---
 title: 'Multi-view Convolutional Neural Networks for 3D Shape Recognition'
 date: 2025-9-16
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/blog-post-1/
 tags:
   - 3D shape recognition (classification)
   - Feature extraction
