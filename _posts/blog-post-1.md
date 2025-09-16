@@ -1,0 +1,30 @@
+---
+title: 'Multi-view Convolutional Neural Networks for 3D Shape Recognition'
+date: 2025-9-16
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - 3D shape recognition (classification)
+  - Feature extraction
+  - Multi-view CNN
+---
+
+This work conclude that a collection of 2D views can be highly informative for 3D shape recognition and is amenable to emerging CNN architectures and their derivatives.
+
+Problem to solve
+
+======
+
+1. Challenges in extracting features from multiple views of a 3D shape
+   1. the more views, the more pixels, the more computationally expensive
+2. Voxel convolution versus pixel convolution
+   1. 2D representations are more efficient for 3D shape recognition
+   2. leveraging advanced image representation techniques
+   3. mesh image datasets are available to pre-train CNNs
+
+Main idea
+
+======
+
+![outline](blog1_imgs/img1.png)
+
+------
