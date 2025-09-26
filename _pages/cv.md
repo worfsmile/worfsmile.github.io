@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Xi'an Jiaotong University, major in Statistics [<img src="https://raw.githubusercontent.com/worfsmile/worfsmile/master/img/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)
+* M.S. in Xi'an Jiaotong University, major in Statistics, supervised by [Prof. Xu](xuxy09.github.io
+)[<img src="https://raw.githubusercontent.com/worfsmile/worfsmile/master/img/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)
 * Visiting Student, National University of Singapore, Singapore[<img src="https://raw.githubusercontent.com/worfsmile/worfsmile/master/img/nus.png"  align = "right"  width="2.2%"/>](https://www.nus.edu.sg/)      
 * B.S. in Xi'an Jiaotong University, major in Computer Science [<img src="https://raw.githubusercontent.com/worfsmile/worfsmile/master/img/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)
 
@@ -21,6 +22,7 @@ Work experience
   * Xi'an Jiaotong University, Xi'an, China
   * Social Network and Graph Neural Network Researches
   * Duties includes: Shortcut Learning Analysis on Social Bot Detection
+  * mentor: [Prof. Luo](https://gr.xjtu.edu.cn/en/web/minnluo) and [Wan Herun](https://whr000001.github.io/)
   
 Skills
 ======
