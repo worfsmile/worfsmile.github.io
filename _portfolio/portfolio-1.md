@@ -1,6 +1,6 @@
 ---
 title: "Honors and Awards"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300_01.png'>"
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300_01.png'>"
 collection: portfolio
 ---
 
