@@ -160,6 +160,9 @@ include:
   - .htaccess
   - _pages
   - files
+  - _posts/GML
+  - _posts/TrellisCode
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
