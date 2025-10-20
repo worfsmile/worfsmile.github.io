@@ -21,7 +21,7 @@ def generate_md_index(root_dir, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("\n".join(lines))
 
-    print(f"生成完成，目录保存在 {output_file}")
+    print(f"生成完成, 目录保存在 {output_file}")
 
 if __name__ == "__main__":
     root_dir = r"E:\github\resume\_posts"
