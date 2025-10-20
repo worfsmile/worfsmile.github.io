@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "ch-China"
 site_theme               : "default"
-title                    : "<i class="fa fa-circle-o-notch fa-spin"></i>Shiyan Zheng / Resume"
+title                    : "Shiyan Zheng / Resume"
 title_separator          : "-"
 name                     : &name "Shiyan Zheng"
 description              : &description "personal description"
